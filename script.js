@@ -64,7 +64,6 @@ const messages = [
     "Last chanceee",
     "Ok fine, I will stop asking...",
     "You're just seeing how far this will go aren't you -.-"
-    "Okay Ari :("
 ];
 
 let messageIndex = 0;
